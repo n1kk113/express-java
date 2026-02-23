@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Laptop {
     private String brand;
     private double price;

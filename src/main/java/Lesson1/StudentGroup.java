@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class StudentGroup {
     private String groupName;
     private int studentCount;

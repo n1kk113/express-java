@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Teacher {
     private String name;
     private String subject;

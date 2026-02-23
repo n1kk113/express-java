@@ -1,3 +1,5 @@
+package Lesson1;
+
 /** Класс Машины **/
 public class Car {
     private String brand;
